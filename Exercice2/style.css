@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+margin: 100px;
+}
+h1 {
+    text-align: center;
+    background-color: cyan;
+    border-radius: 65px;
+    box-shadow: 5px 5px 10px 1px #000000;
+    margin: 20px 0;
+}
+img {
+    height: 70%;
+    width: 70%; 
+    padding: 10px;
+    margin: 20px;
+    border-radius: 65px;
+    box-shadow: 5px 5px 10px 1px #000000;
+}
+p {
+    padding: 30px;
+    margin: 50px 0;
+    line-height: 1.5;
+    text-align:left;
+    background-color: aqua;
+    box-shadow: 5px 5px 10px 1px #000000;
+}
+.image__position {
+    text-align: center;
+}
+.link__icon {
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    margin: 50px 0;
+}
+a {
+    padding-top: 30px;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
